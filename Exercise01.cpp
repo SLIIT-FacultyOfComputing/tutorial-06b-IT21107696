@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include "Student.h"
 using namespace std;
 int main() {
@@ -9,4 +9,15 @@ int main() {
    mystd.display();
 //==========================
    return 0;
+}*/
+#include <iostream>
+#include "Student.h"
+using namespace std;
+int main() {
+// == DO NOT CHANGE THE MAIN PROGRAM =================
+Student mystd;
+mystd.assignDetails(1212, "Amalinga");
+mystd.display();
+//==========================
+return 0;
 }
