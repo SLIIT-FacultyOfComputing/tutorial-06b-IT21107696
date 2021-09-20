@@ -1,4 +1,4 @@
-class Box {
+/*class Box {
     private:
        int length;
        int width;
@@ -8,4 +8,5 @@ class Box {
        // write prototypes of getters for length, width and height
  
        int calcVolume();
-};
+};*/
+
